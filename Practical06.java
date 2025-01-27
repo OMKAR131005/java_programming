@@ -1,9 +1,4 @@
 public class Practical06 {
-    public static void main(String[] args) {
-        Practical06 p=new Practical06();
-//        p.displayPattern2(5);
-        p.displayPattern1(5);
-    }
     public void displayPattern2(int size){
         for(int row=1;row<=size;row++){
             for(int space=1;space<=size-row;space++){
