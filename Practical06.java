@@ -1,4 +1,4 @@
-public class Practical06 {
+ public class Practical06 {
     public void displayPattern2(int size){
         for(int row=1;row<=size;row++){
             for(int space=1;space<=size-row;space++){
